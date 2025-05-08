@@ -2,11 +2,11 @@ import os
 
 
 class Config(object):
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = os.environ.get("7266490468:AAEQBxrhB9sZhACAKqoc2w_u6xuBkryiXWQ", "")
 
-    APP_ID = int(os.environ.get("APP_ID", 12345))
+    APP_ID = int(os.environ.get("29639201", 12345))
 
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = os.environ.get("3b1cbfcaf81a8181c6653b8d5e71f247", "")
 
     AUDIO_THUMBNAIL = os.environ.get("AUDIO_THUMBNAIL", "")
 
